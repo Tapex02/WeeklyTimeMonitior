@@ -13,4 +13,8 @@ Run the following commands to install necessary libraries :
 
 ``` pip install -r requirements.txt ```
 
+Then run : 
+
+``` python Program.py ```
+
 Then just use the program as desired
